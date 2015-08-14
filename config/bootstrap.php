@@ -179,7 +179,6 @@ Request::addDetector('tablet', function ($request) {
  * Plugin::load('Migrations'); //Loads a single plugin named Migrations
  *
  */
-\Cake\Core\Plugin::load('BootstrapUI');
 
 Plugin::load('Migrations');
 

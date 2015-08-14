@@ -34,7 +34,7 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
     <?= $this->fetch('script') ?>
 </head>
 <body>
-    <header>
+    <!-- <header>
         <div class="header-title">
             <span><?= $this->fetch('title') ?></span>
         </div>
@@ -42,7 +42,7 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
             <span><a target="_blank" href="http://book.cakephp.org/3.0/">Documentation</a></span>
             <span><a target="_blank" href="http://api.cakephp.org/3.0/">API</a></span>
         </div>
-    </header>
+    </header> -->
     <div id="container">
 
         <div id="content">
